@@ -1,0 +1,38 @@
+ function addVal(){
+     
+ }
+ 
+Syntax is namefunction =(()=>{
+
+},2n argu)
+
+or
+const sayHito=(name)=>{
+    console.log('hello there  '+name )
+}
+
+
+Time interval
+
+Varibles can  be share to other file with module.exports={} can be access in other with const names=require('./filename')
+Same with the funtion module.exports and then require('./')
+another method discussed in alternative flavor
+//Built in Modules
+OS
+PATH
+FS(filesystem)
+HTTP
+
+NPM
+npm -
+npm --version
+local depandencies use it for particular porjec,
+npm i <package name>
+
+global depandencies use for any porjec,
+npm install -g <package name>
+sudo install -g <package name>(mac)
+
+npm init(step by step, skip by pressing enter)
+npm init -y(defualt)
+
